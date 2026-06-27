@@ -26,6 +26,10 @@ A full security operations pipeline built from scratch. Real hardware, real aler
 | **Active Directory** | Windows domain environment for attack simulation |
 | **Parrot OS** | Dedicated attacker machine for red team exercises |
 
+<p align="center">
+  <img src="https://alchemestrum.github.io/images/homelab_diagram.png" alt="Homelab Architecture Diagram" width="600">
+</p>
+
 [Full homelab documentation →](https://alchemestrum.github.io/homelab)
 
 ---

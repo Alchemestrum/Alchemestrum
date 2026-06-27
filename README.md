@@ -10,7 +10,7 @@
 
 I'm a techie who fell in love with cybersecurity. Not for the career prospects, but because it combines everything I already loved: problem solving, tinkering, breaking things to understand them, and the satisfaction of figuring out how something works by figuring out how it fails.
 
-I build and document real SOC infrastructure in a homelab running on actual hardware. Everything is documented at [alchemestrum.github.io](https://alchemestrum.github.io).
+I build and document real SOC infrastructure in a homelab running on actual hardware. When I'm not working the defensive side, I'm on HackTheBox, TryHackMe, and LetsDefend. Everything is documented at [alchemestrum.github.io](https://alchemestrum.github.io).
 
 ---
 
@@ -58,6 +58,11 @@ A full security operations pipeline built from scratch. Real hardware, real aler
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078d4?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078d4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-e95420?style=for-the-badge&logoColor=white)
+
+**Red Team**
+
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-5bc0eb?style=for-the-badge&logo=parrotsecurity&logoColor=white)
 
 ---
 

@@ -83,6 +83,5 @@ A full security operations pipeline built from scratch. Real hardware, real aler
 
 ## Credentials
 
-University of Miami graduate. Full credentials on [Accredible](https://credential.net).
-
+University of Miami graduate. Full credentials on [Accredible](https://credential.net).  Inquiries through private email.
 TryHackMe and HackTheBox badges available on the [portfolio site](https://alchemestrum.github.io/#certs).

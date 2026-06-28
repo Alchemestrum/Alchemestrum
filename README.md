@@ -72,11 +72,11 @@ A full security operations pipeline built from scratch. Real hardware, real aler
 |---|---|
 | [SOC Homelab](https://alchemestrum.github.io/homelab) | Full SIEM pipeline on real hardware: Wazuh, Splunk, TheHive, Active Directory |
 | [Wazuh: TheHive Integration](https://alchemestrum.github.io/homelab/integrations) | Python script automating alert-to-case pipeline with MITRE tagging |
-| [Kerberoasting Lab](https://github.com/Alchemestrum/Kerberoasting) | Windows attack and defense: Kerberoasting simulation and detection |
-| [StuxBot Hunting](https://github.com/Alchemestrum/HuntingStuxbot) | Threat hunting exercise tracking a StuxBot RAT across endpoint logs |
-| [SPL Lab](https://github.com/Alchemestrum/Homelab-Detection) | Splunk SPL usage, log analysis, and detection rule development |
-| [Network Traffic Analysis](https://github.com/Alchemestrum/NTA) | Packet analysis and anomaly detection with Wireshark |
-| [PCAP Automation](https://github.com/Alchemestrum/PCAP_automation) | Automated PCAP analysis pipeline with HTML report output |
+| [Kerberoasting Lab](https://alchemestrum.github.io/homelab/active-directory/kerberoasting-attack-defense) | Windows attack and defense: Kerberoasting simulation and detection |
+| [StuxBot Hunting](https://alchemestrum.github.io/soc/investigations/stuxbot-rat-hunting) | Threat hunting exercise tracking a StuxBot RAT across endpoint logs |
+| [SPL Lab](https://alchemestrum.github.io/homelab/splunk/splunk-spl-log-analysis) | Splunk SPL usage, log analysis, and detection rule development |
+| [Network Traffic Analysis](https://alchemestrum.github.io/homelab/network-traffic-analysis) | Packet analysis and anomaly detection with Wireshark |
+| [PCAP Automation](https://alchemestrum.github.io/homelab/pcap-automation) | Automated PCAP analysis pipeline with HTML report output |
 | [HTB Season Bot](https://github.com/Alchemestrum/htb-season-bot) | Discord bot: auto-creates solver-only channels when HTB root flags are submitted |
 
 ---
